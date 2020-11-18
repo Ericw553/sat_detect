@@ -46,5 +46,5 @@ projects images and masks
 
 Original paper by Olaf Ronneberger, Philipp Fischer, Thomas Brox: [https://arxiv.org/abs/1505.04597](https://arxiv.org/abs/1505.04597)
 
-<img src="Workflow.png" width="400" />
+<img src="sat_detect/Workflow.png" width="400" />
 
