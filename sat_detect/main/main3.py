@@ -21,7 +21,7 @@ logging.basicConfig(level=logging.DEBUG)
 
 data_dir = '../data'
 
-save_dir = '/Users/ericwang/saved_model/'
+save_dir = '../saved_model/'
 
 BASE_TIME: float = 0
 
