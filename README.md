@@ -44,7 +44,13 @@ projects images and masks
 
 ### Folders
 
-Original paper by Olaf Ronneberger, Philipp Fischer, Thomas Brox: [https://arxiv.org/abs/1505.04597](https://arxiv.org/abs/1505.04597)
+```
+data: contains images and respective masks
+main: trains, validates, and tests data
+saved_model: contains outputs of trained data to be tested
+unet: basic unet code to run in main
+visualization: projects the images and masks into actual visual projections
+```
 
 <img src="sat_detect/Workflow.png" width="400" />
 
